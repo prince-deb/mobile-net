@@ -1,0 +1,46 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background: yellow;
+}
+.header_div{
+    background: orange;
+    color: red;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: darkcyan;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid darkblue;
+}
+.main_div label{
+    background:cyan;
+    width: 310px;
+    padding: 10px;
+    margin-bottom:0px ;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+#camera,#output{
+    border: 2px solid turquoise;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px whitesmoke;
+}
+.main_div button{
+    background: cyan;
+    width:310px ;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px whitesmoke;
+    border: 1px solid;
+}
+.copy_right_footer{
+    position:fixed;
+    color: yellow;
+    bottom: 0;
+    width: 100%;
+    background-color: orangered;
+    line-height: 3;
+    text-align: center;
+}
